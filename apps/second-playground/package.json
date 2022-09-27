@@ -11,6 +11,6 @@
     "analyze": "nuxi analyze",
     "info": "nuxi info",
     "typecheck": "nuxi typecheck",
-    "clean": "rm -rf .output"
+    "clean": "rimraf -rf .output"
   }
 }
